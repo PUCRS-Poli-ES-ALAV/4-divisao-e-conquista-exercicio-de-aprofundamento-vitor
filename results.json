@@ -1,0 +1,38 @@
+//2. O algoritmo a seguir (que não utiliza divisão-e-conquista) encontra o maior valor em um vetor.
+{
+"tamanho_32":[
+    "Iterações": 31,
+    "Maior": 27,
+    "Tempo de execução": "2ms"
+],
+"tamanho 2048":[
+    "Iterações": 2047,
+    "Maior": 29,
+    "Tempo de execução": "8ms"
+],
+"tamanho 1.048.576":[
+    "Iterações": 1048575,
+    "Maior": 29,
+    "Tempo de execução": "12ms"
+]
+}
+
+
+//2. O algoritmo a seguir (que não utiliza divisão-e-conquista) encontra o maior valor em um vetor.
+{
+    "tamanho_32":[
+        "Maior": 29
+        "Iterações": 31
+        "Tempo de execução": "3ms"
+    ],
+    "tamanho 2048":[
+        "Maior": 29
+        "Iterações": 2047
+        "Tempo de execução": "2ms"
+    ],
+    "tamanho 1.048.576":[
+        "Iterações": 1048575,
+        "Maior": 29,
+        "Tempo de execução": "12ms"
+    ]
+    }
